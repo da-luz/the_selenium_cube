@@ -5,7 +5,7 @@ ___
 This project is a **Rubik's Cube Speedsolving** data pipeline in order for it to be used on further analysis (Coming Soon).
 
 ### The case:
-In _The Statistical Cube[link](https://github.com/da-luz/the_statistical_cube)_ we saw an atempt to define and run a model for predicting upcoming Speedsolving Records. That data was scrapped from the official _WCA_ (World Cubing Association) website like neanderthals did scrapping in those times: by visiting each page and pasting data on Excel's sheets.
+In _[The Statistical Cube](https://github.com/da-luz/the_statistical_cube)_ we saw an atempt to define and run a model for predicting upcoming Speedsolving Records. That data was scrapped from the official _WCA_ (World Cubing Association) website like neanderthals did scrapping in those times: by visiting each page and pasting data on Excel's sheets.
 
 For the sake of model veracity - how good is it's picture from reality - and their usability for other kinds of analysis, we must gather more data; which, sometimes, is Sisyphus Work (meaning a laborous task).
 

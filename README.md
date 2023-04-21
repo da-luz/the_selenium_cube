@@ -15,7 +15,7 @@ If we, humans, do not want to do something, then give the task to a robot!
 This code is a browser automation using Selenium, it shall run through all WCA competitions pages (since 2009) and get the data that we need.
 
 ## What this code do until now?
-See, it is not an easy task even for computers. So it is a work in progress. Now, the only thing that this code do, is scan the _Past Competitions_ page retriving the **Name** of event, its **Page URL** and a class from the HTML that shows the **Country** in which country occurred the contest
+See, it is not an easy task even for computers. So it is a work in progress. Now, the only thing that this code do, is scan the _Past Competitions_ page retriving the **Name** of event, its **Page URL**, the **Country**, the **City** or **State** that hosted the competition and the competition starting **Date**. Those infos are stored in a dictionary of dictionaries where each sub dictionary contains the competition's info which can be accessed by using the competition's name as key.
 
 ## What this code will, eventually, do?
 - [x] Gather competitions names, urls and country
